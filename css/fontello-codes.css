@@ -1,5 +1,5 @@
 
-.icon-logo:before { content: '\e800'; } /* '' */
-.icon-emo-shoot:before { content: '\e801'; } /* '' */
-.icon-firefox:before { content: '\e802'; } /* '' */
-.icon-spin4:before { content: '\e803'; } /* '' */
+.icon-firefox:before { content: '\e800'; } /* '' */
+.icon-chrome:before { content: '\e801'; } /* '' */
+.icon-ie:before { content: '\e802'; } /* '' */
+.icon-safari:before { content: '\e803'; } /* '' */
